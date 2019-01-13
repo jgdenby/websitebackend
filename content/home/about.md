@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Computational Cognitive Science",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computational Social Science"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in Computational Social Science"
+  institution = "University of Chicago"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BA in Philosophy & Psychology"
+  institution = "Cornell University"
+  year = 2017
+
 +++
 
-# Biography
+## Bio
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently in my second year of the [Masters in Computational Social Science](https://macss.uchicago.edu/) program at the University of Chicago. My [thesis project](https://github.com/callab/ldp-alignment) involves estimating the effects of linguistic alignment between parents and their children through statistical modeling.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Broadly, I am interested in questions at the intersection of cognitive science and artificial intelligence.
+
+Email: [jgdenby@uchicago.edu](mailto:jgdenby@uchicago.edu)
