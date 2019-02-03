@@ -20,7 +20,7 @@ authors = ["Joseph Denby", "Daniel Yurovsky"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Work in progress*"
+publication = "*Submission under review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
